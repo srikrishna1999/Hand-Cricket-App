@@ -1,0 +1,67 @@
+#user-choise{
+    margin-left: 34%;
+}
+.btn-large{
+    margin :0px 3px 0px 3px;
+    font-size: 20px; 
+}
+#user{
+    font-size: 40px;
+    font-weight: 400;
+}
+#com{
+    font-size: 40px;
+    font-weight: 400;
+    margin :10px;
+}
+#scr{
+    font-size: 40px;
+    font-weight: 400;
+    margin :10px;
+}
+
+#batOrBall{
+    font-size: 40px;
+    font-weight: 400;
+    margin :20px;
+}
+
+.red-glow{
+    color: crimson;
+    transition: 1s;
+}
+
+#target{
+    font-size: 40px;
+    font-weight: 400;
+    margin :10px;
+}
+
+.green-glow{
+    color: green;
+    transition: 1s;
+}
+
+.yellow-glow{
+    color: yellow;
+    transition: 1s;
+}
+
+#von{
+    font-size: 50px;
+}
+
+body{
+    background-color:whitesmoke;
+}
+
+#ref{
+    position: relative;
+    top: 15px;
+    left:100px;
+}
+
+#icon{
+    position: relative;
+    bottom: 6px;
+}
